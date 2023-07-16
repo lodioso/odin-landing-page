@@ -76,8 +76,6 @@
 }
 
 
-.box {}
-
 .box_area {
     display: flex;
     flex-grow: 0;
